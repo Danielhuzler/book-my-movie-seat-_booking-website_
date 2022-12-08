@@ -29,3 +29,32 @@ body{
     justify-content: center;
     min-height: 100vh;
 }
+a{
+    decoration:none;
+
+}
+
+.movie-container{
+margin: 1.2rem 0 ;
+}
+
+#movie {
+width: 15rem;
+border: 0;
+border-radius: 0.5rem;
+margin-left: 0.8rem ;
+padding : 0.4rem 0.9rem;
+appearance: none;
+-webkit-appearance: none;
+-moz-appearance: none;
+}
+
+.seat-occupancy{
+    width: 20rem;
+    display:flex;
+    align-items: center;
+    justify-content:space-between; 
+
+}
+
+
