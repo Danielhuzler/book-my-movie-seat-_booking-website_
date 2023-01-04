@@ -30,8 +30,10 @@ body{
     justify-content: center;
     min-height: 100vh;
 }
+
 a{
-    decoration:none;
+    
+decoration: none;
 
 }
 
@@ -41,7 +43,7 @@ margin: 1.2rem 0 ;
 
 }
 
-#movie {
+#movies {
 width: 15rem;
 border: 0;
 border-radius: 0.5rem;
