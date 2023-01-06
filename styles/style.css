@@ -22,13 +22,15 @@ html{
 
 body{
     font-family:  'Poppins', sans-serif;
-    background-color: var(--orange-text);
+    background-image:url(/assets/images/movie\ seat\ booking.jpg);
     color: var(--black);
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     min-height: 100vh;
+    background-size:cover ;
+    
 }
 
 a{
@@ -138,3 +140,6 @@ text{
     font-weight: 1000;
 }
 
+@media screen {
+    
+}
